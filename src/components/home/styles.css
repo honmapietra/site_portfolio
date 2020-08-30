@@ -1,0 +1,22 @@
+.Home {
+    background-color: #73564C;
+    padding: 181px;
+    margin: auto;
+}
+
+.HomeTexto {
+    font-family: 'Playfair Display', serif;
+    color: white;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+button {
+    border-radius: 16px;
+    padding: 10px;
+    background-color: #BF9484;
+    color: white;
+    border: white;
+}
