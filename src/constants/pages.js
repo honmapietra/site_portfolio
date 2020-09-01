@@ -1,6 +1,7 @@
 import Home from './../components/home';
-import About from './../components/sobre';
+import About from './../components/about';
 import Projects from './../components/projects';
+import Contacts from './../components/contacts';
 
 export const pages = [
     {
@@ -22,7 +23,7 @@ export const pages = [
     },
     {
         title: 'Contato',
-        url: 'contact',
-        description: 'conntato 11 92328323'
+        url: 'contacts',
+        body: Contacts
     }
 ];

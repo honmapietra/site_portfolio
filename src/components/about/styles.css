@@ -1,8 +1,15 @@
 .about {
-    background-color: #BF9484;
-    padding: 193px;
+    background-color: white;
+    padding: 226px;
+    text-align: center;
 }
 
-.description {
-    color: white;
+.box-description h3 {
+    color: #71963b;
+    font-family: 'Gilda Display', serif;
+}
+
+.icon-div img {
+    width: 282px;
+    border-radius: 144px;
 }

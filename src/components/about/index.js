@@ -1,13 +1,16 @@
 import React from 'react';
 import './styles.css';
-
+import image from './image/dudaicon.jpg';
 
 const About = () => {
     return (
         <div className="about">
-            <h1 className="description">Oi! eu sou a clelba,tenho 100 anos e esse é meu portfolio</h1>
+            <div className="icon-div"> <img src={image} /></div>
+            <div className="box-description">
+                <h3>SOBRE MIM</h3>
+                <p>vou escr3ever qualquer coisa aleatorioa porque eu só quero</p>
+            </div>
         </div>
     )
 }
-
 export default About;

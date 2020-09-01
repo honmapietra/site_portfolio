@@ -1,8 +1,7 @@
-footer {
-    padding: 1px;
+.container-projects {
+    padding: 270px;
 }
 
-footer p {
-    text-align: center;
-    color: white;
+.projects {
+    background-color: white;
 }

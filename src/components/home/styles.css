@@ -1,22 +1,29 @@
 .Home {
-    background-color: #73564C;
+    background-color: white;
     padding: 181px;
     margin: auto;
 }
 
 .HomeTexto {
-    font-family: 'Playfair Display', serif;
-    color: white;
+    font-family: 'Gilda Display', serif;
+    color: black;
 }
 
-a:link {
+a {
+    color: white;
     text-decoration: none;
-}
+ }
+ 
+ a:hover {
+     color: #999;
+ }
 
 button {
     border-radius: 16px;
-    padding: 10px;
-    background-color: #BF9484;
+    padding: 21px;
+    background-color: #71963b;
     color: white;
     border: white;
+    font-size: 19px;
+    font-family: 'Gilda Display', serif;
 }

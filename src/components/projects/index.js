@@ -3,8 +3,9 @@ import './styles.css';
 
 const Projects = () => {
     return (
-        <div className="Projects">
-
+        <div className="container-projects">
+            <div className="projects">
+            </div>
         </div>
     )
 }

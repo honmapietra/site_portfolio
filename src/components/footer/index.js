@@ -5,7 +5,7 @@ import './styles.css';
 function Footer() {
     return (
         <footer>
-            <p>Portfólio feito com ♡ por Pietra</p>
+            <p> Portfólio de Eduarda Nascimento®️ 2020 </p>
         </footer>
     )
 }

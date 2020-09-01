@@ -1,0 +1,15 @@
+.pageSocial {
+    background-color: #ffffff;
+    padding: 226px;
+} 
+
+.box-contact {
+  display: flex;
+  justify-content: space-between;
+}
+
+.pageSocial h2 {
+  font-family: 'Gilda Display', serif;
+  border-bottom: 4px solid #71963b;
+  width: 427px;
+}

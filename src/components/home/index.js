@@ -4,8 +4,8 @@ import './styles.css';
 const Home = () => {
     return (
         <div className="Home">
-            <h1 className="HomeTexto">Oi! eu sou a clelba,tenho 100 anos e esse é meu portfolio</h1>
-            <button>Sobre Mim</button>
+            <h1 className="HomeTexto">Olá, meu nome é Eduarda,<p>bem vindo ao meu portfólio</p></h1>
+            <button>SOBRE MIM</button>
         </div>
     )
 }
