@@ -1,12 +1,13 @@
 .Home {
     background-color: white;
-    padding: 181px;
-    margin: auto;
+    padding: 121px;
+
 }
 
-.HomeTexto {
+.HomeText {
     font-family: 'Gilda Display', serif;
     color: black;
+    text-align: center;
 }
 
 a {
@@ -16,7 +17,7 @@ a {
  
  a:hover {
      color: #999;
- }
+}
 
 button {
     border-radius: 16px;

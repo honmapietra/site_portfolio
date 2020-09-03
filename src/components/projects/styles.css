@@ -1,7 +1,8 @@
 .container-projects {
-    padding: 270px;
+    width: 100%;
+    display: flex;
 }
 
-.projects {
-    background-color: white;
+.projects img {
+    width: 100%;
 }

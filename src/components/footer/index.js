@@ -4,9 +4,11 @@ import './styles.css';
 
 function Footer() {
     return (
-        <footer>
-            <p> Portfólio de Eduarda Nascimento®️ 2020 </p>
-        </footer>
+        <div className="div-footer">
+            <footer>
+                <p> Portfólio de Eduarda Nascimento®️ 2020 </p>
+            </footer>
+        </div>
     )
 }
 

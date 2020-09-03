@@ -1,9 +1,10 @@
 footer {
     background-color: #736356;
-    padding: 6px;
+    padding: 4px;
 }
 
 footer p {
     color: white;
     text-align: center;
+    font-family: 'Gilda Display', serif;
 }

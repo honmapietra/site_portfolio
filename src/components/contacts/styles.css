@@ -1,15 +1,31 @@
-.pageSocial {
-    background-color: #ffffff;
-    padding: 226px;
-} 
+.box-contact h2 {
+  font-family: 'Gilda Display', serif;
+  border-bottom: 4px solid #71963b;
+  width: 427px;
+  margin-top: 230px;
+  margin-left: 18px;
+}
 
-.box-contact {
+.container-social {
   display: flex;
   justify-content: space-between;
 }
 
-.pageSocial h2 {
+
+.redes_sociais {
   font-family: 'Gilda Display', serif;
-  border-bottom: 4px solid #71963b;
-  width: 427px;
+  width: 634px;
+  background-color: #71963b;
+}
+
+.redes_sociais div { 
+  background-color: #71963b;
+  color: #fff;
+  text-align: center;
+  padding: 2rem;
+}
+
+
+.rede-social a {
+  color: #fff;
 }
