@@ -1,5 +1,10 @@
 .App ul {
   display: flex;
-  justify-content: space-between;
-  list-style: none
+  justify-content: flex-end;
+  list-style: none;
+  font-size: 21px;
+}
+
+.App li {
+  margin-right: 15px;
 }

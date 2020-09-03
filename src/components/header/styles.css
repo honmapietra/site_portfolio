@@ -1,10 +1,15 @@
 header {
     background: #736356;
+    background-image: url("https://fontmeme.com/permalink/200903/bb3e4e14e42c6f022d6c0936b7c6ecee.png");
+    background-repeat: no-repeat;
+    background-size: contain;
 }
+
+
 
 header ul {
     margin-right: 150px;
-    font-family: 'Gilda Display', serif;
+    font-family: 'Rozha One', serif;
 }
 
 .container {

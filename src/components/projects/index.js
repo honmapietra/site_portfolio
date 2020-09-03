@@ -8,7 +8,7 @@ import Imagefive from './image/pintura5.jpg';
 import Imagesix from './image/pintura6.jpg';
 import Imageseven from './image/pintura7.jpg';
 import Imageeight from './image/pintura8.jpg';
-import Imagenine from './image/pintura9.jpg';
+
 
 
 const Projects = () => {
@@ -21,9 +21,6 @@ const Projects = () => {
                 <div className="projects">
                     <img src={Imagetwo} alt="images" />
                 </div>
-                <div className="projects">
-                    <img src={Imageseven} alt="images" />
-                </div>
             </div>
             <div className="column-projects">
                 <div className="projects">
@@ -31,9 +28,6 @@ const Projects = () => {
                 </div>
                 <div className="projects">
                     <img src={Imagefour} alt="images" />
-                </div>
-                <div className="projects">
-                    <img src={Imageeight} alt="images" />
                 </div>
             </div>
             <div className="column-projects">
@@ -43,8 +37,13 @@ const Projects = () => {
                 <div className="projects">
                     <img src={Imagesix} alt="images" />
                 </div>
+            </div>
+            <div className="column-projects">
                 <div className="projects">
-                    <img src={Imagenine} alt="images" />
+                    <img src={Imageseven} alt="images" />
+                </div>
+                <div className="projects">
+                    <img src={Imageeight} alt="images" />
                 </div>
             </div>
         </div>

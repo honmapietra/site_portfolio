@@ -10,21 +10,21 @@ const Contacts = () => {
             </div>
             <div className="redes_sociais">
                 <div className="redes-sociais_instagram rede-social">
-                    <a href="https://instagram.com/dudanasart" target="_blank">
+                    <a href="https://instagram.com/dudanasart">
 
                         <p>Instagram</p>
                         <p>/dudanasart</p>
                     </a>
                 </div>
                 <div className="redes-sociais_email rede-social">
-                    <a href="" target="_blank">
 
-                        <p>E-mail</p>
-                        <p>dudanasart@contato.com</p>
-                    </a>
+
+                    <p>E-mail</p>
+                    <p>dudanasart@contato.com</p>
+
                 </div>
                 <div className="redes-sociais_facebook rede-social">
-                    <a href="https://facebook.com/dudanasart" target="_blank">
+                    <a href="https://facebook.com/dudanasart">
 
                         <p>Facebook</p>
                         <p>/dudanasart</p>

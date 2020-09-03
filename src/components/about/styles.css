@@ -5,6 +5,7 @@
 
 .icon-div {
     width: 50%;
+    background-color: #736356;
 }
 
 .icon-div img {
@@ -13,5 +14,27 @@
 
 .box-description {
     width: 50%;
-    background: blueviolet;
+
+    color: white;
+   background-color: #71963b;
+}
+
+.box-description h2 {
+    font-family: 'Rozha One', serif;
+    margin-left: 105px;
+    font-size: 43px;
+}
+
+.description {
+    text-align: center;
+    font-size: 18px;
+   
+}
+
+.info-contact h3 {
+    font-family: 'Rozha One', serif;
+    font-size: 19px;
+}
+.info-contact {
+    margin-left: 52px;
 }

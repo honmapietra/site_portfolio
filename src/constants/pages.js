@@ -5,24 +5,24 @@ import Contacts from './../components/contacts';
 
 export const pages = [
     {
-        title: 'Ínicio',
+        title: 'ÍNICIO',
         url: '',
         description: '',
         subtitle: '',
         body: Home
     },
     {
-        title: 'Sobre',
+        title: 'SOBRE',
         url: 'about',
         body: About
     },
     {
-        title: 'Projetos',
+        title: 'PROJETOS',
         url: 'projects',
         body: Projects
     },
     {
-        title: 'Contato',
+        title: 'CONTATO',
         url: 'contacts',
         body: Contacts
     }
