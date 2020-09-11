@@ -1,0 +1,10 @@
+.btn {
+    border-radius: 16px;
+    padding: 21px;
+    background-color: var(--green);
+    color: var(--white);
+    border: var(--white);
+    font-size: 19px;
+    cursor: pointer;
+    font-family: 'Rozha One', serif;
+}

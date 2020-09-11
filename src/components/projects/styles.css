@@ -2,11 +2,27 @@
     width: 100%;
     display: flex;
 }
-
+@media (max-width: 800px) {
+    .container-projects {
+        background-color: black;
+    }
+}
+@media (max-width: 500px) {
+    .container-projects {
+        width: 100%;
+        display: contents;
+    }
+}
 
 .projects {
     height: 306px;
 }
+@media (max-width: 800px) {
+    .projects {
+    height: auto;
+    }
+}
+
 
 .projects img {
     margin: auto;
@@ -16,4 +32,9 @@
 
 .column-projects {
     width: 25%;
+}
+@media (max-width: 500px) {
+    .column-projects {
+        width: auto;
+    }
 }

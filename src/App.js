@@ -32,9 +32,6 @@ function App() {
               </Route>
             )
           })}
-          <Route>
-            404 url not found
-          </Route>
         </Switch>
         <Footer />
       </div>

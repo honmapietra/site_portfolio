@@ -4,7 +4,24 @@
   list-style: none;
   font-size: 21px;
 }
+@media (max-width: 500px) {
+  .App ul {
+    font-size: 13px;
+  }
+}
 
 .App li {
   margin-right: 15px;
+}
+@media (max-width: 500px) {
+  .App li {
+    margin-right: 9px;
+}
+}
+
+
+:root {
+  --maroon: #736356;
+  --green: #71963b;;
+  --white: #ffffff;
 }

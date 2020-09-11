@@ -1,10 +1,18 @@
 .box-contact h2 {
   font-family: 'Rozha One', serif;
-  border-bottom: 4px solid #71963b;
+  border-bottom: 4px solid var(--green);;
   width: 427px;
   margin-top: 230px;
   margin-left: 18px;
   font-size: 23px;
+}
+@media (max-width: 500px) {
+  .box-contact h2 {
+    width: 334px;
+    margin-top: 6px;
+    margin-left: 38px;
+    font-size: 18px;
+  }
 }
 
 .container-social {
@@ -12,21 +20,33 @@
   justify-content: space-between;
   margin: 16px;
 }
+@media (max-width: 500px) {
+  .container-social {
+    display: contents;
+  }
+}
 
 
 .redes_sociais {
   font-family: 'Rozha One', serif;
   width: 634px;
 }
+@media (max-width: 500px) {
+  .redes_sociais {
+    width: 385px;
+    margin-left: 21px;
+    margin-bottom: 10px;
+  }
+}
 
 .redes_sociais div { 
-  background-color:#736356;
-  color: #fff;
+  background: var(--maroon);
+  color: var(--white);
   text-align: center;
   padding: 2rem;
 }
 
 
 .rede-social a {
-  color: #fff;
+  color: var(--white);
 }

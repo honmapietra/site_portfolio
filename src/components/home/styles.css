@@ -1,5 +1,5 @@
 .Home {
-    background-color: white;
+    background-color: var(--white);
     padding: 121px;
 
 }
@@ -10,8 +10,14 @@
     text-align: center;
 }
 
+@media (max-width: 500px) {
+    .HomeText h2 {
+        font-size: 17px;
+    }
+}
+
 a {
-    color: white;
+    color: var(--white);
     text-decoration: none;
  }
  
@@ -19,12 +25,21 @@ a {
      color: #999;
 }
 
-button {
-    border-radius: 16px;
-    padding: 21px;
-    background-color: #71963b;
-    color: white;
-    border: white;
-    font-size: 19px;
-    font-family: 'Rozha One', serif;
+.btn-about {
+    background-color: var(--green);
+    cursor: pointer;
+    color: var(--white);
+    border-radius: 50%;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.btn-about:hover {
+    background-color: hsla(84, 54%, 49%, 0.856);
+    opacity: 1;
+}
+
+.btn-about h3 {
+    font-size: 15px;
 }
