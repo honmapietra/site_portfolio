@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/site_portfolio/static/css/main.5e8340a8.chunk.css",
+    "main.js": "/site_portfolio/static/js/main.1914faea.chunk.js",
+    "main.js.map": "/site_portfolio/static/js/main.1914faea.chunk.js.map",
+    "runtime-main.js": "/site_portfolio/static/js/runtime-main.dfe273c9.js",
+    "runtime-main.js.map": "/site_portfolio/static/js/runtime-main.dfe273c9.js.map",
+    "static/js/2.be067f04.chunk.js": "/site_portfolio/static/js/2.be067f04.chunk.js",
+    "static/js/2.be067f04.chunk.js.map": "/site_portfolio/static/js/2.be067f04.chunk.js.map",
+    "index.html": "/site_portfolio/index.html",
+    "precache-manifest.cc80ba2e0d21b338963c1997c897ace0.js": "/site_portfolio/precache-manifest.cc80ba2e0d21b338963c1997c897ace0.js",
+    "service-worker.js": "/site_portfolio/service-worker.js",
+    "static/css/main.5e8340a8.chunk.css.map": "/site_portfolio/static/css/main.5e8340a8.chunk.css.map",
+    "static/js/2.be067f04.chunk.js.LICENSE.txt": "/site_portfolio/static/js/2.be067f04.chunk.js.LICENSE.txt",
+    "static/media/dudaicon.jpg": "/site_portfolio/static/media/dudaicon.74072a9b.jpg",
+    "static/media/pintura1.jpg": "/site_portfolio/static/media/pintura1.1c0fab30.jpg",
+    "static/media/pintura2.jpg": "/site_portfolio/static/media/pintura2.29e9bff6.jpg",
+    "static/media/pintura3.jpg": "/site_portfolio/static/media/pintura3.ec804fda.jpg",
+    "static/media/pintura4.jpg": "/site_portfolio/static/media/pintura4.2cd0461b.jpg",
+    "static/media/pintura5.jpg": "/site_portfolio/static/media/pintura5.1916fd56.jpg",
+    "static/media/pintura6.jpg": "/site_portfolio/static/media/pintura6.0b6e6dcb.jpg",
+    "static/media/pintura7.jpg": "/site_portfolio/static/media/pintura7.5c56739e.jpg",
+    "static/media/pintura8.jpg": "/site_portfolio/static/media/pintura8.1b5bcc3b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfe273c9.js",
+    "static/js/2.be067f04.chunk.js",
+    "static/css/main.5e8340a8.chunk.css",
+    "static/js/main.1914faea.chunk.js"
+  ]
+}
