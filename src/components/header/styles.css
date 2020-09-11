@@ -1,20 +1,7 @@
-header {
-    background: var(--maroon);
-    background-image: url("https://fontmeme.com/permalink/200903/bb3e4e14e42c6f022d6c0936b7c6ecee.png");
-    background-repeat: no-repeat;
-    background-size: contain;
-}
-@media (max-width: 500px) {
-  header {
-  background-size: 82px;
-  }
-}
-
-
-
 header ul {
     margin-right: 150px;
     font-family: 'Rozha One', serif;
+
 }
   @media (max-width: 800px) {
     header ul {
@@ -22,8 +9,12 @@ header ul {
     }
 }
 
+a:hover {
+  color: var(--green);
+}
+
 .container {
     padding: 17px;
-    background-color: var(--maroon);
+    background-color: var(--white);
 }
 

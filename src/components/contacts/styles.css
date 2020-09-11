@@ -1,52 +1,20 @@
-.box-contact h2 {
-  font-family: 'Rozha One', serif;
-  border-bottom: 4px solid var(--green);;
-  width: 427px;
-  margin-top: 230px;
-  margin-left: 18px;
-  font-size: 23px;
-}
-@media (max-width: 500px) {
-  .box-contact h2 {
-    width: 334px;
-    margin-top: 6px;
-    margin-left: 38px;
-    font-size: 18px;
-  }
-}
-
 .container-social {
-  display: flex;
-  justify-content: space-between;
-  margin: 16px;
+  padding: 111px;
 }
-@media (max-width: 500px) {
-  .container-social {
-    display: contents;
-  }
+.box-contact h1 {
+  text-align: center;
+  font-family: 'Rozha One', serif;
 }
 
+.redes_sociais h2 {
+  font-family: 'Great Vibes', cursive;
+  border-bottom: 4px solid var(--wine);
+  color: var(--grey);
+  width: 148px;
+  font-size: 28px;
+}
 
 .redes_sociais {
-  font-family: 'Rozha One', serif;
-  width: 634px;
-}
-@media (max-width: 500px) {
-  .redes_sociais {
-    width: 385px;
-    margin-left: 21px;
-    margin-bottom: 10px;
-  }
-}
-
-.redes_sociais div { 
-  background: var(--maroon);
-  color: var(--white);
-  text-align: center;
-  padding: 2rem;
-}
-
-
-.rede-social a {
-  color: var(--white);
+  display: flex;
+  justify-content: space-evenly;
 }

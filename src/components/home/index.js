@@ -9,12 +9,9 @@ const Home = () => {
         <div className="Home">
             <div className="image-leave">
                 <div className="HomeText">
-                    <h2>Duda Nas é uma artista visual focada em pinturas
-                    <p>Ela ama contar histórias e passar inspiração   </p>
-                        <p>através de cores fortes e personagens marcantes</p>
-                        <p>Para mais sobre ela:</p></h2>
-
-                    <Link to="/about"> <button className="btn-about"><h3>MAIS SOBRE</h3>  </button>
+                    <h2> Duda Nas Art </h2>
+                    <h3>Artista Visual</h3>
+                    <Link to="/about"> <button className="btn-about"><p>MAIS SOBRE</p>  </button>
                     </Link>
                 </div>
             </div>

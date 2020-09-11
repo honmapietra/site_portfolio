@@ -1,10 +1,11 @@
 footer {
-    background-color: var(--maroon);
+    background-color: var(--white);
     padding: 4px;
 }
 
 footer p {
-    color: var(--white);
+    color: var(--wine);
     text-align: center;
     font-family: 'Rozha One', serif;
+
 }

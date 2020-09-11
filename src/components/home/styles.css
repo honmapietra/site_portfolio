@@ -1,23 +1,28 @@
 .Home {
-    background-color: var(--white);
+    background-color: var(--grey);
     padding: 121px;
 
 }
 
 .HomeText {
-    font-family: 'Rozha One', serif;
-    color: black;
     text-align: center;
 }
 
-@media (max-width: 500px) {
-    .HomeText h2 {
-        font-size: 17px;
-    }
+.HomeText h2 {
+   
+    font-size: 84px;
+    border-bottom: 4px solid var(--wine);
 }
 
+.HomeText h3 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 70px;
+    margin-top: auto;
+}
+
+
 a {
-    color: var(--white);
+    color: var(--wine);
     text-decoration: none;
  }
  
@@ -26,9 +31,9 @@ a {
 }
 
 .btn-about {
-    background-color: var(--green);
+    background-color: var(--wine);
     cursor: pointer;
-    color: var(--white);
+    color: var(--green);
     border-radius: 50%;
   transition: 0.3s;
   display: inline-block;
@@ -36,7 +41,7 @@ a {
 }
 
 .btn-about:hover {
-    background-color: hsla(84, 54%, 49%, 0.856);
+    background-color: #c75757;
     opacity: 1;
 }
 
