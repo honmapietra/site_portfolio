@@ -9,13 +9,14 @@
 }
 
 .HomeText h2 {
-   
+    font-family: 'Kufam', cursive;
     font-size: 84px;
     border-bottom: 4px solid var(--wine);
+    margin-bottom: 4px;
 }
 
 .HomeText h3 {
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Kufam', cursive;
     font-size: 70px;
     margin-top: auto;
 }
@@ -28,23 +29,4 @@ a {
  
  a:hover {
      color: #999;
-}
-
-.btn-about {
-    background-color: var(--wine);
-    cursor: pointer;
-    color: var(--green);
-    border-radius: 50%;
-  transition: 0.3s;
-  display: inline-block;
-  text-decoration: none;
-}
-
-.btn-about:hover {
-    background-color: #c75757;
-    opacity: 1;
-}
-
-.btn-about h3 {
-    font-size: 15px;
 }

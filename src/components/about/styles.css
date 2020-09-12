@@ -9,7 +9,7 @@
 }
 
 .box-description h2 {
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Kufam', cursive;
     font-size: 54px;
     border-bottom: 4px solid var(--wine);
 }
@@ -17,13 +17,17 @@
 .info-contact h3 {
     color: var(--wine);
     font-size: 31px;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Rozha One', serif;
+    margin-bottom: 10px;
 }
 
-.info-contact p {
+.info-contact a {
     font-size: 20px;
+    font-family: 'Rozha One', serif;
+    color: black;
 }
 
 .description {
-    font-size: 25px;
+    font-size: 20px;
+    font-family: 'Rozha One', serif;
 }

@@ -3,18 +3,26 @@
 }
 .box-contact h1 {
   text-align: center;
-  font-family: 'Rozha One', serif;
+  font-family: 'Kufam', cursive;
+  
 }
 
 .redes_sociais h2 {
-  font-family: 'Great Vibes', cursive;
-  border-bottom: 4px solid var(--wine);
+  font-family: 'Rozha One', serif;
   color: var(--grey);
   width: 148px;
-  font-size: 28px;
+  font-size: 20px;
+  
 }
 
 .redes_sociais {
   display: flex;
   justify-content: space-evenly;
+  text-align: center;
+}
+
+.icon-social {
+  color: var(--wine);
+  font-size: 70px;
+ 
 }

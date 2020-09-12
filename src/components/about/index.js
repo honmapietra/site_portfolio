@@ -21,7 +21,7 @@ const About = () => {
                 <br /> Produz suas pinturas em tela, MDF ou em papel canson, utilizando tinta acrílica, PVA e guache.</p>
                 <div className="info-contact">
                     <h3>Contato:</h3>
-                    <p>+55 (48) 8440-1740</p>
+                    <a href="https://api.whatsapp.com/send?phone=55554884401740" target="_blank" rel="noopener noreferrer" >+55 (48) 8440-1740</a>
                 </div>
             </div>
         </div>

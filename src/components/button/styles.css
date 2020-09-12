@@ -1,10 +1,15 @@
-.btn {
-    border-radius: 16px;
-    padding: 21px;
-    background-color: var(--green);
+.btn-about {
+    border-radius: 23px;
+    background-color: var(--wine);
     color: var(--white);
     border: var(--white);
-    font-size: 19px;
+    font-size: 24px;
     cursor: pointer;
     font-family: 'Rozha One', serif;
+    width: 113px;
+}
+
+.btn-about:hover {
+    background-color: #c75757;
+    opacity: 1;
 }

@@ -1,6 +1,6 @@
 import React from 'react';
 import './styles.css';
-import { Link } from "react-router-dom";
+import Button from './../button';
 
 
 
@@ -11,8 +11,7 @@ const Home = () => {
                 <div className="HomeText">
                     <h2> Duda Nas Art </h2>
                     <h3>Artista Visual</h3>
-                    <Link to="/about"> <button className="btn-about"><p>MAIS SOBRE</p>  </button>
-                    </Link>
+                    <Button />
                 </div>
             </div>
         </div>
