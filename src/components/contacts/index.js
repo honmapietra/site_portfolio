@@ -7,7 +7,7 @@ const Contacts = () => {
     return (
         <div className="container-social">
             <div className="box-contact">
-                <h1>Fique a vontade para entrar em contato</h1>
+                <h1>Fique a vontade para entrar em contato </h1>
             </div>
             <div className="redes_sociais">
                 <div className="redes-sociais_instagram rede-social">
