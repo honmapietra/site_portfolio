@@ -17,8 +17,10 @@ const Contacts = () => {
                     </a>
                 </div>
                 <div className="redes-sociais_email rede-social">
-                    <FontAwesomeIcon className="icon-social" icon={['fas', 'envelope-open-text']} />
-                    <a href="mailto:dudavinascimento@gmail.com"><h2>E-mail</h2></a>
+                    <a href="mailto:dudavinascimento@gmail.com">
+                        <FontAwesomeIcon className="icon-social" icon={['fas', 'envelope-open-text']} />
+                        <h2> E-mail</h2>
+                    </a>
                 </div>
             </div>
             <div className="redes_sociais">
